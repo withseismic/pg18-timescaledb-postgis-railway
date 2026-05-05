@@ -2,7 +2,7 @@
 
 Run time-series, geospatial, and relational workloads on a single PostgreSQL 18 instance with TimescaleDB 2.26 and PostGIS 3.6 — deployed on Railway with persistent storage and health checks.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/XXXXX)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/tEKgug?referralCode=dougie&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 ## About
 
